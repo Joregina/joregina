@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-**Business Analyst | Process Improvement Specialist | Data-Driven Problem Solver**
+**Process Mapping | Risk Management | System Improvement | Customer Journey Improvement**
 
 
 I’m a Business Analyst with a background in Information Systems and Applied Mathematics, currently working at Analyze Consulting. I’m passionate about leveraging process mapping, data analysis, and stakeholder collaboration to drive business transformation and improve operational efficiency.
