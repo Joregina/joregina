@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=green&text=Welcome%20to%20my%20GitHub)
 
 ## 💼 About Me
 
-**Process Mapping | Risk Management | System Improvement | Customer Journey Improvement**
-
-
-I’m a Business Analyst with a background in Information Systems and Applied Mathematics, currently working at Analyze Consulting. I’m passionate about leveraging process mapping, data analysis, and stakeholder collaboration to drive business transformation and improve operational efficiency.
+```yaml
+* Hi, welcome to my profile, I am a Business Analyst with a background in Information Systems. This Github is used showcase my SQL and data analysis*
+```
 
 ---
 
@@ -18,7 +17,7 @@ I’m a Business Analyst with a background in Information Systems and Applied Ma
 
 ---
 
-## 🚀 Projects
+## 🚀 Repositories
 
 
 - 📁 **SharePoint HR Centralisation**  
