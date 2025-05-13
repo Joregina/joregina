@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%10to%10my%10GitHub)
+![image](https://github.com/user-attachments/assets/cde02895-d39c-4be8-a525-f4a54934dd33)![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%10to%10my%10GitHub)
 
 ## 💼 About Me
 
@@ -12,7 +12,9 @@
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+ 
+https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
 </p>
 ---
 
