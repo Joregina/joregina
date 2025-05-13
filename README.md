@@ -4,43 +4,19 @@
 ---
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
-<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="php" width="90" height="45"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
 </p>
 ---
 
-
-
----
-
 ## 🚀 Repositories
-
-
-- 📁 **SharePoint HR Centralisation**  
-  Implemented a centralised SharePoint site to streamline HR info access for People Practice.
-
-- 📚 **LearnWorlds Agile Training Course**  
-  Built an Agile project delivery course, transforming PowerPoint frameworks into a structured e-learning module.
-
-- 🔁 **Investment Management Process Mapping**  
-  Led workshops, created a standardized process repository, and drove onboarding and training efficiencies.
-
-- ⚠️ **Risk Dashboard for Financial Services**  
-  Developed a risk tracking dashboard in Power BI with actionable mitigation strategies.
-
-- 💸 **FinTech Customer Journey Enhancement**  
-  Mapped self-help customer journeys and collaborated with engineers to reduce fraud and improve CX.
-
 ---
+**SQL**
+* [New Companies Solution]([https://github.com/username/repository-name](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution))
+* [Formating Names with Occupation Initials]([https://github.com/username/repository-name](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution))
 
-## 🧰 Technical Toolkit
-
-- **Data & Reporting:** Power BI, SQL  
-- **Process Design:** Visio, Spark  
-- **Project Tools:** OnePlan, JIRA, SharePoint  
-- **Design & Docs:** Canva, Office Suite, UI/UX Flows  
-- **Collaboration:** Agile, Workshops, Slack, MS Teams  
-
+**Data Analysis**
+* [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
 ---
 
 ## 📫 Let's Connect
@@ -50,3 +26,4 @@
 ---
 
 Thanks for stopping by! I’m always open to collaborations, mentorship opportunities, or a good old chat about all things Agile and analytics 🌱
+<iframe src="https://giphy.com/embed/LVjJhHQXasrfi" width="480" height="283" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/20s-LVjJhHQXasrfi">via GIPHY</a></p>
