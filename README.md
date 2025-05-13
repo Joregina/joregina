@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=black)
 
-## This Github is used showcase my SQL and data analysis
+**This Github is used showcase my SQL and data analysis**
+---
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="php" width="90" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
 </p>
-
 ---
 
 ## 🚀 Repositories
@@ -18,8 +18,12 @@
 **Data Analysis**
 * [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
 ---
+
 ## 📫 Let's Connect
 - Email: [Kimberleymthembu0@gmail.com](mailto:Kimberleymthembu0@gmail.com)  
 ---
+
 Thanks for stopping by! I’m always open to collaborations, mentorship opportunities, or a good old chat about all things Agile and analytics 🌱
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhnd3Fhc2k1YnQwYnM4emd2NTJwZHQ0a3NoNnJ3a3NwYTNwcjR5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVjJhHQXasrfi/giphy.gif" alt="gif" width="200" height="200" align="center"/>
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhnd3Fhc2k1YnQwYnM4emd2NTJwZHQ0a3NoNnJ3a3NwYTNwcjR5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVjJhHQXasrfi/giphy.gif" alt="gif" width="300" height="300"/>
+</p>
