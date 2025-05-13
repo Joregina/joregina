@@ -11,17 +11,13 @@
 
 ## 🚀 Repositories
 **SQL**
-* [New Companies Solution]([https://github.com/username/repository-name](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution))
-* [Formating Names with Occupation Initials]([https://github.com/username/repository-name](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution))
-
+* [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
+* [Formating Names with Occupation Initials](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
 **Data Analysis**
 * [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
 ---
-
 ## 📫 Let's Connect
 - Email: [Kimberleymthembu0@gmail.com](mailto:Kimberleymthembu0@gmail.com)  
-
 ---
-
 Thanks for stopping by! I’m always open to collaborations, mentorship opportunities, or a good old chat about all things Agile and analytics 🌱
-<img src="[https://giphy.com/embed/LVjJhHQXasrfi" width="480" height="283" style=" frameBorder="0" class="giphy-embed" allowFullScreen] />
+<img src="https://giphy.com/embed/LVjJhHQXasrfi" width="480" height="283" style=" frameBorder="0" class="giphy-embed" allowFullScreen]/>
