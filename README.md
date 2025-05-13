@@ -1,19 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=black)
 
-## 💼 About Me
-
-```yaml
-* Hi, welcome to my profile, I am a Business Analyst with a background in Information Systems. This Github is used showcase my SQL and data analysis*
-```
-
+## This Github is used showcase my SQL and data analysis
 ---
-
-## 🚀 Tools I Use 
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
+<img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="php" width="45" height="45"/>
+  
 </p>
+---
+
+
+
 ---
 
 ## 🚀 Repositories
