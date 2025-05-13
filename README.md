@@ -1,7 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=black)
 
-**This Github is used showcase my SQL and data analysis**
----
+## 👨‍💻About Me 
+```yaml
+Name: Gina Mthembu
+Current_job: Business Analyst
+Education:
+  ["Bachelor of Science Honor in Information Systems from Rhodes University",
+  "SQL Basic Certitication from HackerRank",
+  ]
+
+Technical_background:
+  ["SQL",
+  "PowerBI",
+"Excel",
+]
+*
+```
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="php" width="90" height="45"/>
