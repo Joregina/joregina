@@ -10,9 +10,11 @@
 ---
 
 ## 🚀 Repositories
+
 **SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
 * [Formating Names with Occupation Initials](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
+
 **Data Analysis**
 * [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
 ---
@@ -20,4 +22,4 @@
 - Email: [Kimberleymthembu0@gmail.com](mailto:Kimberleymthembu0@gmail.com)  
 ---
 Thanks for stopping by! I’m always open to collaborations, mentorship opportunities, or a good old chat about all things Agile and analytics 🌱
-<img src="https://giphy.com/embed/LVjJhHQXasrfi" width="480" height="283" style=" frameBorder="0" class="giphy-embed" allowFullScreen]/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhnd3Fhc2k1YnQwYnM4emd2NTJwZHQ0a3NoNnJ3a3NwYTNwcjR5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVjJhHQXasrfi/giphy.gif"/>
