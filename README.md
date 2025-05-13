@@ -8,13 +8,13 @@
 
 ---
 
+## 🚀 Tools I Use 
 
-- 🎓 BSc & BSc(Hons) in Information Systems – Rhodes University  
-- 🔁 Skilled in Business Process Mapping, Risk Management, and Customer Journey Optimization  
-- 📊 Experienced in tools like Power BI, JIRA, Visio, SharePoint, SQL, and Spark  
-- 🛠️ Agile practitioner with a focus on requirements documentation, UI/UX flows, and UAT  
-- 🧠 Lifelong learner with certifications in Project Management, Data Analysis, and RPA (UiPath)
-
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 ---
 
 ## 🚀 Repositories
