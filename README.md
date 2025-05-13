@@ -26,7 +26,7 @@ Technical_background:
 
 **SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
-* [Formating Names with Occupation Initials](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
+* [Formating Names with Occupation Initials](https://github.com/Joregina/The-Pads-HackerRank-SQL-Solution)
 
 **Data Analysis**
 * [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
