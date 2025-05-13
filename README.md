@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cde02895-d39c-4be8-a525-f4a54934dd33)![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%10to%10my%10GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%10to%10my%10GitHub)
 
 ## 💼 About Me
 
