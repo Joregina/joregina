@@ -26,4 +26,4 @@
 ---
 
 Thanks for stopping by! I’m always open to collaborations, mentorship opportunities, or a good old chat about all things Agile and analytics 🌱
-<iframe src="https://giphy.com/embed/LVjJhHQXasrfi" width="480" height="283" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/20s-LVjJhHQXasrfi">via GIPHY</a></p>
+<img src="[https://giphy.com/embed/LVjJhHQXasrfi" width="480" height="283" style="" frameBorder="0" class="giphy-embed" allowFullScreen] />
