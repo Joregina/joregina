@@ -5,36 +5,40 @@
 Name: Gina Mthembu
 Current_job: Business Analyst
 Education:
-  ["Bachelor of Science Honor in Information Systems from Rhodes University",
-  "SQL Basic Certitication from HackerRank",
+  [
+    "Bachelor of Science Honor in Information Systems from Rhodes University",
+    "SQL Basic Certitication from HackerRank",
+    "Preparing for Data Analysis" from Microsoft",
   ]
 
-Technical_background:
-  ["SQL",
-  "PowerBI",
-"Excel",
+Key_skills:
+  [
+    "Optimising SQL queries to retrieve data",
+    "Data visualisation",
+    "Data modeling",
+    "Data analysis expression (DAX)",
 ]
 ```
 ---
+
+## 🚀 Tools I use
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="php" width="90" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
 </p>
 
-## 🚀 Repositories
-
+## 🎯 Repositories
 **SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
 * [Formating Names with Occupation Initials](https://github.com/Joregina/The-Pads-HackerRank-SQL-Solution)
 
 **Data Analysis**
 * [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
----
 
 ## 📫 Let's Connect
 - Email: [Kimberleymthembu0@gmail.com](mailto:Kimberleymthembu0@gmail.com)  
----
+
 
 Thanks for stopping by! I’m always open to collaborations, mentorship opportunities, or a good old chat about all things Agile and analytics 🌱
 <p align="center">
