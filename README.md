@@ -35,6 +35,7 @@ Key_skills:
 
 **Data Analysis**
 * [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
+* [VanArsdel Ltd. Manufacturer Analysis Dashboard](https://github.com/Joregina/Manufacture-Analysis)
 
 ## 📫 Let's Connect
 - Email: [Kimberleymthembu0@gmail.com](mailto:Kimberleymthembu0@gmail.com)  
