@@ -23,12 +23,15 @@ Key_skills:
 
 ## 🚀 Tools I use
 <p align="center">
+<img src="https://devicon-website.vercel.app/api/r/original.svg" alt="php" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="php" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="php" width="90" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="php" width="45" height="45"/>
 </p>
 
 ## 🎯 Repositories
+**Machine Learning**
+* [Binary Classification](https://github.com/Joregina/Binary-Classification)
 **SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
 * [Formating Names with Occupation Initials](https://github.com/Joregina/The-Pads-HackerRank-SQL-Solution)
