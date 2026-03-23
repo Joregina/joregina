@@ -33,7 +33,7 @@ Key_skills:
 **Machine Learning**
 * [Binary Classification](https://github.com/Joregina/Binary-Classification)
 
-* **SQL**
+**SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
 * [Formating Names with Occupation Initials](https://github.com/Joregina/The-Pads-HackerRank-SQL-Solution)
 
