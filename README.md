@@ -1,24 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=black)
 
 ## 👨‍💻About Me 
-```yaml
-Name: Gina Mthembu
-Current_job: Business Analyst
-Education:
-  [
-    "Bachelor of Science Honor in Information Systems from Rhodes University",
-    "SQL Basic Certitication from HackerRank",
-    "Preparing for Data Analysis" from Microsoft",
-  ]
+If I had to share three things that really define me professionally, it would be these:
 
-Key_skills:
-  [
-    "Optimising SQL queries to retrieve data",
-    "Data visualisation",
-    "Data modeling",
-    "Data analysis expression (DAX)",
-]
-```
+### First, I’ve become the data person at in my current company.
+Over the last few years, I’ve deliberately built my data capability alongside my Business Analysis background. I’m often the person people come to when they need to understand what the data is telling us whether that’s through Power BI or, more recently, machine learning through my postgraduate studies. 
+### Second, one of my strongest skills is deep client knowledge.
+I don’t just want to understand what a client is asking for; I want to understand their business, their processes, their systems and the problem behind the requirement. That’s something I’ve developed across different industries and complex transformation projects.
+### Third, I’m genuinely curious.
+I’m naturally someone who wants to understand how things work and then figure out how they could work better. That curiosity is what has taken me from Business Analysis into data, systems and now machine learning.
+
 ---
 
 ## 🚀 Tools I use
@@ -31,7 +22,7 @@ Key_skills:
 
 ## 🎯 Repositories
 **Machine Learning**
-* [Binary Classification](https://github.com/Joregina/Binary-Classification)
+* [Promo Prediction](https://github.com/Joregina/PromoPredict/tree/main)
 
 **SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
