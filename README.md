@@ -24,13 +24,14 @@ I’m naturally someone who wants to understand how things work and then figure 
 **Machine Learning**
 * [Promo Prediction](https://github.com/Joregina/PromoPredict/tree/main)
 
+**Data Analysis**
+* [RetailPulse](https://github.com/Joregina/RetailPulse/blob/main/README.md)
+* [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
+* [VanArsdel Ltd. Manufacturer Analysis Dashboard](https://github.com/Joregina/Manufacture-Analysis)
+
 **SQL**
 * [New Companies Solution](https://github.com/Joregina/HackerRanK-SQL-New-Companies-Solution)
 * [Formating Names with Occupation Initials](https://github.com/Joregina/The-Pads-HackerRank-SQL-Solution)
-
-**Data Analysis**
-* [Harry Potter Rating Dashboard](https://github.com/Joregina/Harry-potter-rating)
-* [VanArsdel Ltd. Manufacturer Analysis Dashboard](https://github.com/Joregina/Manufacture-Analysis)
 
 ## 📫 Let's Connect
 - Email: [Kimberleymthembu0@gmail.com](mailto:Kimberleymthembu0@gmail.com)  
